@@ -1,0 +1,4 @@
+HeroLinkReadiness-*.csv
+HeroLinkReadiness-*.html
+*.csv
+!exemples/*.csv
